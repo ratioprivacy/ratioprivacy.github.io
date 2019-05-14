@@ -1,5 +1,3 @@
-# ratioprivacy.github.io
-
 ## Privacy Policy
 
 Alexandra Golubnichaya built the Ratio app as a Free app. This SERVICE is provided by Alexandra Golubnichaya at no cost and is intended for use as is.
